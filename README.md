@@ -37,4 +37,4 @@ This repository contains Jupyter notebooks that demonstrate the implementation o
 
 ### Contact:
 
-For any queries or feedback, please reach out to \[\text{{[Priyanka Marwadi]}}(https://www.linkedin.com/in/priyanka-marwadi/)\].
+For any queries or feedback, please reach out to **[Priyanka Marwadi](https://www.linkedin.com/in/priyanka-marwadi/)**.
